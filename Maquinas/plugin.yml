@@ -1,0 +1,8 @@
+name: Maquinas
+main: br.com.ydoom.Main
+version: 1.0
+author: _yDoom
+depend: [Vault]
+description: Maquinas
+commands:
+   maquinas:
